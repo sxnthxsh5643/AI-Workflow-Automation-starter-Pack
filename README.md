@@ -127,7 +127,7 @@ https://github.com/vinothlabs-dev/AI-Workflow-Automation-Starter-Pack
 
 ## Author
 
-**Vinothkumar S**
+**SANTHOSH R**
 
 AI Workflow Automation Starter Pack
 
